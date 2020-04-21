@@ -1,0 +1,58 @@
+{
+    "first_name": "Hung Hao",
+    "last_name": "Hsu",
+    "profile_text": "I always have passion about new technologies. Whether it’s cloud services, which I have 2+ years experience on AWS, Edge Computing, Artificial Intelligence, or new DevOps tools. I enjoy learning and exploring the trends that make our life more efficient.",
+    "experience": [
+        {
+            "job_title": "Cloud Development Engineer",
+            "company": "eCloudvalley Digital Technology",
+            "date": "December 2018 - March 2020",
+            "tasks": [
+                "Built an application that scans for potential security risks, suggestion of high availability on AWS and generated a report that highlight the issues with python.",
+                "Design loose coupled applications,  build microservices and serverless architecture on AWS that saves around 60% of the operation cost.",
+                "Collaborate with product team to develop code, design system and test solutions for our Cloud Management Platform."
+            ]
+        },
+        {
+            "job_title": "Cloud Support Engineer",
+            "company": "eCloudvalley Digital Technology",
+            "date": "July 2018 - December 2018",
+            "tasks": [
+                "Analyzed needs of customers and provide possible solutions, supported customers with technical issues such as scaling their databases automatically and load balancing traffic for their websites.",
+                "Established operating procedure and technical document, which drops the training time of new colleges significantly."
+            ]
+        },
+        {
+            "job_title": "Project Owner",
+            "company": "Racetrack Cloud Services",
+            "date": "February 2019 - May 2019",
+            "tasks": [
+                "Identified client’s needs and effectively communicated project scope, schedule, and budget, then planned, organize, and implement all aspects of the construction project.",
+                "Recruited people from school and led the team to build a prototype of the product.",
+                "Designed sensors with Arduino and logged the data into database, analyzed and displayed data with PHP.",
+                "Built a prototype child toy that can analyze children’s behavior while they are playing, and identify possible learning disability at an early age, such as Visual Spatial Perceptual Disorder, Developmental Dyslexia or Specific Learning Disabilities in Mathematics.",
+                "Documented deployment and post deployment procedures."
+            ]
+        }
+    ],
+    "certifications":[
+        "AWS Certified Solutions Architect – Associate",
+        "AWS Certified Developer – Associate",
+        "AWS Certified Sysops Administrator – Associate",
+        "Gold Certificate of TOEIC"
+    ],
+    "education": [
+        {
+            "school": "National Chiao Tung University, Taiwan",
+            "program": "Bachelor of Computer Science",
+            "date": "September 2016 - June 2020"
+        },
+        {
+            "school": "New York University, New York",
+            "program": "Comprehensive English Program",
+            "date": "May 2016 - August 2016"
+        }
+    ],
+    "interest_text": "To be written"
+    
+}

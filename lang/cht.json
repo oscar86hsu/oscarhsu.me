@@ -9,7 +9,7 @@
             "date": "December 2018 - March 2020",
             "tasks": [
                 "以Python建構應用程式，用以掃描AWS用戶可能的資安漏洞、高可用性建議，並產出報表標註問題",
-                "設計低耦合性的影用程式，在AWS建構微服務及無伺服器架構，節省約 60% 營運成本",
+                "設計低耦合性的應用程式，在AWS建構微服務及無伺服器架構，節省約 60% 營運成本",
                 "與產品部門共同開發程式碼、設計系統及測試雲端管理平台"
             ]
         },
@@ -37,7 +37,7 @@
         "AWS Certified Solutions Architect – Associate",
         "AWS Certified Developer – Associate",
         "AWS Certified Sysops Administrator – Associate",
-        "Gold Certificate of TOEIC"
+        "多益金色證書"
     ],
     "specialty":[
         "微服務及分散式系統架構",
@@ -58,6 +58,6 @@
             "date": "May 2016 - August 2016"
         }
     ],
-    "interest_text": "To be written"
+    "interest_text": "待寫"
     
 }

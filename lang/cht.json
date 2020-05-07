@@ -1,0 +1,63 @@
+{
+    "first_name": "許",
+    "last_name": "閎皓",
+    "profile_text": "我一直以來都對科技的發展潮流相當有興趣，不管是雲端技術、人工智能或者資安議題等，從10歲開始就會坐在書店的資訊書籍區待一整個下午，研讀程式語言、網路通訊原理、電腦系統架構等書籍，我很享受學習及探索能讓我們生活更便利的東西。在雲端技術方面，我有三年的AWS實務經驗，並且擔任兩年的雲端工程師。",
+    "experience": [
+        {
+            "job_title": "雲端開發工程師",
+            "company": "伊雲谷數位科技股份有限公司",
+            "date": "December 2018 - March 2020",
+            "tasks": [
+                "以Python建構應用程式，用以掃描AWS用戶可能的資安漏洞、高可用性建議，並產出報表標註問題",
+                "設計低耦合性的影用程式，在AWS建構微服務及無伺服器架構，節省約 60% 營運成本",
+                "與產品部門共同開發程式碼、設計系統及測試雲端管理平台"
+            ]
+        },
+        {
+            "job_title": "雲端技術工程師",
+            "company": "伊雲谷數位科技股份有限公司",
+            "date": "July 2018 - December 2018",
+            "tasks": [
+                "分析客戶需求並給予可行的解決方案，協助客戶的技術問題，像是自動擴展資料庫、網站流量負載平衡",
+                "編寫維運流程及技術文件，以利後續加入的同事能夠快速地通過訓練流程"
+            ]
+        },
+        {
+            "job_title": "專案擁有者",
+            "company": "睿思特股份有限公司",
+            "date": "February 2019 - May 2019",
+            "tasks": [
+                "辨別客戶的需求及積極的溝通專案的範疇、行程及預算，然後計畫、組織及部署專案的所有面向",
+                "建構一個可以收集兒童遊玩行為的兒童玩具原型，並加以分析，以及早辨別兒童的學習障礙，像是視覺空間感知障礙、閱讀障礙、數學障礙......等等",
+                "編寫開發文件"
+            ]
+        }
+    ],
+    "certifications":[
+        "AWS Certified Solutions Architect – Associate",
+        "AWS Certified Developer – Associate",
+        "AWS Certified Sysops Administrator – Associate",
+        "Gold Certificate of TOEIC"
+    ],
+    "specialty":[
+        "微服務及分散式系統架構",
+        "雲端運算",
+        "容器服務",
+        "敏捷開發"
+
+    ],
+    "education": [
+        {
+            "school": "國立交通大學, 臺灣",
+            "program": "資訊工程學系",
+            "date": "September 2016 - June 2020"
+        },
+        {
+            "school": "紐約大學, 紐約",
+            "program": "Comprehensive English Program",
+            "date": "May 2016 - August 2016"
+        }
+    ],
+    "interest_text": "To be written"
+    
+}

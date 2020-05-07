@@ -28,8 +28,6 @@
             "date": "February 2019 - May 2019",
             "tasks": [
                 "Identified client’s needs and effectively communicated project scope, schedule, and budget, then planned, organize, and implement all aspects of the construction project.",
-                "Recruited people from school and led the team to build a prototype of the product.",
-                "Designed sensors with Arduino and logged the data into database, analyzed and displayed data with PHP.",
                 "Built a prototype child toy that can analyze children’s behavior while they are playing, and identify possible learning disability at an early age, such as Visual Spatial Perceptual Disorder, Developmental Dyslexia or Specific Learning Disabilities in Mathematics.",
                 "Documented deployment and post deployment procedures."
             ]
@@ -40,6 +38,13 @@
         "AWS Certified Developer – Associate",
         "AWS Certified Sysops Administrator – Associate",
         "Gold Certificate of TOEIC"
+    ],
+    "specialty":[
+        "Microservices &amp Distributed System",
+        "Cloud Computing",
+        "Container",
+        "Agile Development"
+
     ],
     "education": [
         {

@@ -1,7 +1,7 @@
 {
     "first_name": "Hung Hao",
     "last_name": "Hsu",
-    "profile_text": "I always have passion about new technologies. Whether it’s cloud services, which I have 2+ years experience on AWS, Edge Computing, Artificial Intelligence, or new DevOps tools. I enjoy learning and exploring the trends that make our life more efficient.",
+    "profile_text": "I always have passion about new technologies. Whether it’s Cloud Computing, Artificial Intelligence, or Internet Security. Since I was 10, I will sit at the computer science area of the book store and read books about programming, internet, computer system etc.. I enjoy learning and exploring things that make our life more efficient. In the field of cloud services, I have 3 years  of hands-on experience on AWS, and worked as a Cloud Engineer for 2 years.",
     "experience": [
         {
             "job_title": "Cloud Development Engineer",
@@ -9,8 +9,8 @@
             "date": "December 2018 - March 2020",
             "tasks": [
                 "Built an application that scans for potential security risks, suggestion of high availability on AWS and generated a report that highlight the issues with python.",
-                "Design loose coupled applications,  build microservices and serverless architecture on AWS that saves around 60% of the operation cost.",
-                "Collaborate with product team to develop code, design system and test solutions for our Cloud Management Platform."
+                "Designed loose coupled applications,  built microservices and serverless architecture on AWS that saved around 60% of the operation cost.",
+                "Collaborated with product team to develop code, design system and test solutions for our Cloud Management Platform."
             ]
         },
         {

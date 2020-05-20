@@ -62,15 +62,15 @@ $.getJSON(file_name, function (content) {
         job_html += '</ul></div>';
         job_html += '<div class="resume-date text-md-right"><span class="text-primary">' + value.date + '</span></div>';
         job_html += '</div>';
-        $("#experience").append(job_html);
+        $("#experience-content").append(job_html);
     })
 
     $.each(content.certifications, function (index, value) {
-        $("#certifications").append('<li><i class="fa-li fas fa-certificate text-warning"></i>' + value + '</li>');
+        $("#certifications-content").append('<li><i class="fa-li fas fa-certificate text-warning"></i>' + value + '</li>');
     })
 
     $.each(content.specialty, function (index, value) {
-        $("#specialty").append('<li><i class="fa-li fa fa-check"></i>' + value + '</li>');
+        $("#specialty-content").append('<li><i class="fa-li fa fa-check"></i>' + value + '</li>');
     })
 
     $.each(content.education, function (index, value) {
@@ -82,7 +82,7 @@ $.getJSON(file_name, function (content) {
         edu_html += '<div class="resume-date text-md-right">';
         edu_html += '<span class="text-primary">' + value.date + '</span>';
         edu_html += '</div></div>';
-        $("#education").append(edu_html);
+        $("#education-content").append(edu_html);
     })
 
     $("#interest_text").text(content.interest_text);

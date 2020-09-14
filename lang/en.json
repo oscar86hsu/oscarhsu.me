@@ -5,6 +5,14 @@
     "experience": [
         {
             "job_title": "Cloud Development Engineer",
+            "company": "Arcadyan Technology Corporation",
+            "date": "August 2020 - Present",
+            "tasks": [
+                "Develope big data analysis platform on AWS and let home network equipments automatic optimize based on the environment."
+            ]
+        },
+        {
+            "job_title": "Cloud Development Engineer",
             "company": "eCloudvalley Digital Technology",
             "date": "December 2018 - March 2020",
             "tasks": [

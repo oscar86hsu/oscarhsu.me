@@ -1,14 +1,18 @@
 {
     "first_name": "Hung Hao",
     "last_name": "Hsu",
-    "profile_text": "I always have passion about new technologies. Whether it’s Cloud Computing, Artificial Intelligence, or Internet Security. Since I was 10, I will sit at the computer science area of the book store and read books about programming, internet, computer system etc.. I enjoy learning and exploring things that make our life more efficient. In the field of cloud services, I have 3 years  of hands-on experience on AWS, and worked as a Cloud Engineer for 2 years.",
+    "profile_text": "I always have passion about new technologies. Whether it’s Cloud Computing, Artificial Intelligence, or Internet Security. I enjoy learning and exploring things that make our life more efficient. I also enjoy talking to people from different backgrounds to absorb knowledge from various fields. In the field of cloud, I have several years of hands-on experience on AWS, and start working as a Cloud Engineer since 2018.",
     "experience": [
         {
             "job_title": "Cloud Development Engineer",
             "company": "Arcadyan Technology Corporation",
             "date": "August 2020 - Present",
             "tasks": [
-                "Develope big data analysis platform on AWS and let home network equipments automatic optimize based on the environment."
+                "Designed and developed cloud native application to collect, analyze, manage and optimize network equipments using NodeJs and Hadoop big data framework.",
+                "Increased site reliability by designing load balanced, distributed system with proper disaster recovery plans.",
+                "Communicate with customers abroad to clarify requirements and help improve customer experience.",
+                "Architected several cloud applications, managed and organized resources for the development."
+
             ]
         },
         {

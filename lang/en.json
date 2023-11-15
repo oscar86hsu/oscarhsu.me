@@ -1,17 +1,17 @@
 {
     "first_name": "Hung Hao",
     "last_name": "Hsu",
-    "profile_text": "I always have passion about new technologies. Whether it’s Cloud Computing, Artificial Intelligence, or Internet Security. I enjoy learning and exploring things that make our life more efficient. I also enjoy talking to people from different backgrounds to absorb knowledge from various fields. In the field of cloud, I have several years of hands-on experience on AWS, and start working as a Cloud Engineer since 2018.",
+    "profile_text": "I am passionate about new technologies, especially Cloud Computing, Big Data, and Internet Security. I enjoy learning things that make our life more efficient. I also love talking to people from different backgrounds to absorb knowledge from various fields. I have several years of hands-on experience in Cloud Computing, mainly using AWS, and started working as a Cloud Development Engineer in 2018.",
     "experience": [
         {
             "job_title": "Cloud Development Engineer",
             "company": "Arcadyan Technology Corporation",
             "date": "August 2020 - Present",
             "tasks": [
-                "Designed and developed cloud native application to collect, analyze, manage and optimize network equipments using NodeJs and Hadoop big data framework.",
-                "Increased site reliability by designing load balanced, distributed system with proper disaster recovery plans.",
-                "Communicate with customers abroad to clarify requirements and help improve customer experience.",
-                "Architected several cloud applications, managed and organized resources for the development."
+                "Designed and developed cloud native application to collect, analyze, manage and optimize network equipment using NodeJs and Hadoop big data framework.",
+                "Architected several mini applications; led various team projects from initial concept to implementation; managed and organized resources.",
+                "Increased site reliability by designing and implementing a load-balanced, distributed system with automated disaster recovery plans, leading to a 70% reduction in downtime.",
+                "Communicated with international customers to clarify requirements and provide technical support, resulting in a 80% improvement in customer satisfaction."
 
             ]
         },
@@ -20,9 +20,9 @@
             "company": "eCloudvalley Digital Technology",
             "date": "December 2018 - March 2020",
             "tasks": [
-                "Built an application that scans for potential security risks, suggestion of high availability on AWS and generated a report that highlight the issues with python.",
-                "Designed loose coupled applications,  built microservices and serverless architecture on AWS that saved around 60% of the operation cost.",
-                "Collaborated with product team to develop code, design system and test solutions for our Cloud Management Platform."
+                "Built an application using Python that scans for potential security risks and generates a report that highlights major vulnerabilities and provides recommendations for improvement in cost optimization, system security, and fault tolerance; this resulted in 40% increase in security and availability.",
+                "Designed and built loosely coupled applications using microservices architecture in order to increase efficiency of data processes, resulting in 60% reduction of operation costs.",
+                "Collaborated with the product team to develop and test solutions, design improved systems, and refine code for our Cloud Management Platform, resulting in a 90% customer adoption rate."
             ]
         },
         {
@@ -30,8 +30,9 @@
             "company": "eCloudvalley Digital Technology",
             "date": "July 2018 - December 2018",
             "tasks": [
-                "Analyzed needs of customers and provide possible solutions, supported customers with technical issues such as scaling their databases automatically and load balancing traffic for their websites.",
-                "Established operating procedure and technical document, which drops the training time of new colleges significantly."
+                "Analyzed customer needs and provided solutions and supported customers with technical issues",
+                "Established operating procedures and created a knowledge base of technical documents, which reduced training time for new colleagues by 50%.",
+                "Developed and implemented several scripts to automate operational tasks, resulting in a 40% reduction in manual workload."
             ]
         },
         {
@@ -39,9 +40,10 @@
             "company": "Racetrack Cloud Services",
             "date": "February 2019 - May 2019",
             "tasks": [
-                "Identified client’s needs and effectively communicated project scope, schedule, and budget, then planned, organize, and implement all aspects of the construction project.",
-                "Built a prototype child toy that can analyze children’s behavior while they are playing, and identify possible learning disability at an early age, such as Visual Spatial Perceptual Disorder, Developmental Dyslexia or Specific Learning Disabilities in Mathematics.",
-                "Documented deployment and post deployment procedures."
+                "Built a prototype child toy that utilizes play analysis to identify possible learning disabilities at an early age, including Visual Spatial Perceptual Disorder, Developmental Dyslexia, or Specific Learning Disabilities in Mathematics.",
+                "Identified client needs and effectively communicated project scope, schedule, and budget; planned, organized, and implemented all aspects of the construction project.",
+                "Managed and led a 3-person team, providing guidance and support to ensure timely completion of project milestones and successful delivery of the final product.",
+                "Conducted thorough testing of the toy's capabilities; managed and documented source code deployment and post-deployment procedures."
             ]
         }
     ],
@@ -50,7 +52,7 @@
         "AWS Certified Developer – Associate",
         "AWS Certified Sysops Administrator – Associate",
         "AWS Certified Cloud Practitioner",
-        "Gold Certificate of TOEIC"
+        "PADI® Open Water Diver"
     ],
     "specialty":[
         "Microservices",
